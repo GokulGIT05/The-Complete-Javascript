@@ -61,9 +61,8 @@ This details also present in above link/
 
 
 /***************************
-*	Coding Exercise 1:
+*	Coding Exercise 1: BMI Calculator
 */
-
 console.log('Coding Exercise 1:');
 
 var markMass, markHeight, johnMass, johnHeight, markBMI, johnBMI, isMarkHasHigherBmiThanJohn;
@@ -74,8 +73,8 @@ markHeight = 1.6;
 johnMass = 90;
 johnHeight = 1.4;
 
-markBMI = markMass * (markHeight * markHeight);
-johnBMI = johnMass * (johnHeight * johnHeight);
+markBMI = markMass / (markHeight * markHeight);
+johnBMI = johnMass / (johnHeight * johnHeight);
 
 isMarkHasHigherBmiThanJohn = markBMI > johnBMI ;
 
