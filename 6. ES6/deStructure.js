@@ -1,5 +1,6 @@
-/////////////////////////////////
-// Lecture: Destructuring
+/********************** 
+* Lecture: Destructuring
+*/
 
 // ES5
 var john = ['John', 26];
