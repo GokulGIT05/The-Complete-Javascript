@@ -14,7 +14,7 @@ console.log(nameEs5);
 const nameEs6 = "Rahul Gopi";
 var rahulAge = 20;
 // nameEs6 = "Rahul G";
-// console.log(nameEs6);
+console.log(nameEs6);
 
 
 // ES5  
